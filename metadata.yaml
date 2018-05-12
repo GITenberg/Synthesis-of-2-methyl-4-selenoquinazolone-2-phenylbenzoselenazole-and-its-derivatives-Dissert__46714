@@ -1,10 +1,16 @@
 _repo: Synthesis-of-2-methyl-4-selenoquinazolone-2-phenylbenzoselenazole-and-its-derivatives-Dissert__46714
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chen, Yü-Gwan
     gutenberg_agent_id: '43919'
     url: http://www.gutenberg.org/2009/agents/43919
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46714#Synthesis-of-2-methyl-4-selenoquinazolone-2-phenylbenzoselenazole-and-its-derivatives-Dissert_
 gutenberg_issued: '2014-08-28'
 gutenberg_type: Text
 identifiers:
